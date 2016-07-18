@@ -7,3 +7,5 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/__Prospector_Scene_0.unity
+  - enabled: 1
+    path: Assets/__Prospector_Scene_1.unity
