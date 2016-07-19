@@ -25,7 +25,7 @@ public class Card : MonoBehaviour {
 	}
 
 	// List of the SpriteRenderer Components of this GameObject and its children public 
-	SpriteRenderer[] spriteRenderers; 
+	public SpriteRenderer[] spriteRenderers; 
 
 	void Start() { 
 		SetSortOrder( 0); // Ensures that the card starts properly depth sorted 
